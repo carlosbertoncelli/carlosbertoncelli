@@ -79,7 +79,6 @@ Below you will see some of the tech stacks that I've worked with so far
  </ul>
  
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=cabjr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cabjr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
