@@ -1,14 +1,14 @@
 #  About Me:
 🔭 I’m currently working as a Software Engineer (backend mostly)<br>
-🌱 I’m currently learning AWS and Node.js stack<br>
-⚡ I consider myself a generalist, problem solver oriented, spent the last 4 years working with Machine Learning
+🌱 I’m currently learning Node.js stack<br>
+⚡ I consider myself a generalist, problem solver oriented, and I spent the last four years working with Machine Learning
 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cabertoncelli/) 
 
 # 💻 Tech Stack:
-Below you will see some of the tech stacks that I've worked with so far
+Below, you will see some of the tech stacks that I've worked with so far
 <ul>
 
 <li>Languages</li>
