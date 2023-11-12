@@ -1,6 +1,6 @@
 #  About Me:
 🔭 I’m currently working as a Software Engineer (backend mostly)<br>
-🌱 I’m currently learning React.js<br>
+🌱 I’m currently studying GCP<br>
 ⚡ I consider myself a generalist, problem solver oriented, and I spent the last four years working with Machine Learning
 
 
