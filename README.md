@@ -1,7 +1,7 @@
 #  About Me:
 🔭 I’m currently working as a Machine Learning Engineer<br>
 🌱 I’m currently studying Rust<br>
-⚡ I consider myself a generalist, problem solver oriented, and I spent the last four years working with Machine Learning
+⚡ I consider myself a generalist, problem solver oriented, and I spent the last six years working with Machine Learning
 
 
 ## 🌐 Socials:
